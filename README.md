@@ -1,4 +1,4 @@
-brainTrust (improve coding skills, while learning git and github)
+brainTrust (improve coding skills, learn git and github)
 ==========
 
 Are you a newbie to the world of github?
